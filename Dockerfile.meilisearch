@@ -1,0 +1,2 @@
+FROM getmeili/meilisearch
+COPY ./data.ms /data.ms
