@@ -14,5 +14,5 @@ webdriver-manager = "==3.4.2"
 
 [dev-packages]
 pylint = "==2.8.2"
-tox = "==3.24.3"
+tox = "==3.25.1"
 tox-pipenv = "==1.10.1"
